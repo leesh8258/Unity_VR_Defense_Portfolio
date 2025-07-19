@@ -15,6 +15,7 @@
 
 + 유로에셋 사용으로 인해 이 Repository에는 본인의 소스코드만 등록하고 설명할 점을 밝힙니다
 <br></br>
+
 ## 개발 환경
 
 __1. 장르__
@@ -34,26 +35,45 @@ __5. 개발 기간__
 <br></br>
 
 ## 사용 기술
-싱글톤
-XR Interaction Toolkit API 활용 VR Device 다루기
-ObjectPool 을 통한 최적화
-몬스터 Animation 구성 및 Event
-추상화를 통한 코드 중복 제거
+
+기술 | 설명
+-------- | -------
+Singleton | 싱글톤 패턴을 통한 여러개의 매니저 관리 
+XR Interaction Toolkit API | VR 기기를 다루기 위한 Unity 패키지 API 활용
+Object Pooling | 많은 수의 몬스터 GameObject 관리하기 위한 최적화 기법
+몬스터 Animation | Animator 및 Animation Event 를 이용한 몬스터 공격 판정
+추상화 | override, abstract class를 이용한 코드 중복 제거
 
 ## 담당 기능
-무기 로직
-몬스터 6종 애니메이션 및 이벤트
-게임 로직
-몬스터 AI
-VR 컨트롤러
+
++ VR 컨트롤러
+     + 기본적인 컨트롤러 기능 (이동, 오브젝트 상호작용 등)
+     + 컨트롤러 속도 측정 후 무기 융합 시스템에 적용 
+
++ 게임 규칙
+     + 메인메뉴에서 선택한 무기정보를 스테이지씬으로 전달
+     + 무기를 던진 후 기존 자리에 리스폰
+     + 적이 플레이어 본진까지 이동 후 공격
+     + 가중치에 따라 몬스터 종류별로 스폰
+
++ 무기
+   + 효과가 다른 무기 10종 제작
+   + 무기 융합 시스템
+
++ 몬스터
+     + 각 스테이지 별 3마리씩 총 6종류 몬스터 제작
+     + 각 몬스터 애니메이터 구성
+<br></br>
 
 ## 플레이 영상
+
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/d9de7504-e633-41e6-9ebf-1766b9b6bfbc" width="33%">
-   <img src="https://github.com/user-attachments/assets/785a2309-895b-433c-9695-74665d3839a3" width="33%">
-   <img src="https://github.com/user-attachments/assets/d4a94376-478b-481d-a00b-0c2c4cbe1693" width="33%">
-      <p> [인 게임 플레이 사진 GIF] </p>
+   <img src="https://github.com/user-attachments/assets/d9de7504-e633-41e6-9ebf-1766b9b6bfbc" width="40%">
+   <img src="https://github.com/user-attachments/assets/785a2309-895b-433c-9695-74665d3839a3" width="40%">
+   <img src="https://github.com/user-attachments/assets/d4a94376-478b-481d-a00b-0c2c4cbe1693" width="40%">
+   <p> [인 게임 플레이 사진 GIF] </p>
 </div>
+<br></br>
 
 ## 팀원 구성
 
