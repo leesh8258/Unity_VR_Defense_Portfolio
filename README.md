@@ -3,9 +3,9 @@
 ## 프로젝트 소개
 
 <div align="center">
-<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/ce3b302a-edc5-4962-ab44-16e6afa7a7c9" />
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/3ecd801b-7383-4683-9f93-bf9c689450cc" />
-<인 게임 이미지>
+<img src="https://github.com/user-attachments/assets/ce3b302a-edc5-4962-ab44-16e6afa7a7c9" width="45%">
+<img src="https://github.com/user-attachments/assets/3ecd801b-7383-4683-9f93-bf9c689450cc" width="45%">
+<p>소개 이미지</p>
 </div>
 
 ---
