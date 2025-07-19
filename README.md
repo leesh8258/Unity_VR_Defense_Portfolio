@@ -32,9 +32,29 @@ __4. 프로젝트 목표__
 __5. 개발 기간__
    + 2024/03/17 ~ 2024/06/12 (약 3개월)
 <br></br>
+
 ## 사용 기술
+싱글톤
+XR Interaction Toolkit API 활용 VR Device 다루기
+ObjectPool 을 통한 최적화
+몬스터 Animation 구성 및 Event
+추상화를 통한 코드 중복 제거
+
 ## 담당 기능
+무기 로직
+몬스터 6종 애니메이션 및 이벤트
+게임 로직
+몬스터 AI
+VR 컨트롤러
+
 ## 플레이 영상
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/d9de7504-e633-41e6-9ebf-1766b9b6bfbc" width="33%">
+   <img src="https://github.com/user-attachments/assets/785a2309-895b-433c-9695-74665d3839a3" width="33%">
+   <img src="https://github.com/user-attachments/assets/d4a94376-478b-481d-a00b-0c2c4cbe1693" width="33%">
+      <p> [인 게임 플레이 사진 GIF] </p>
+</div>
+
 ## 팀원 구성
-## 프로젝트 소개 문서
+
 ## 게임 빌드
