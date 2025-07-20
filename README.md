@@ -71,10 +71,16 @@ Object Pooling | 많은 수의 몬스터 GameObject 관리하기 위한 최적�
    <img src="https://github.com/user-attachments/assets/d9de7504-e633-41e6-9ebf-1766b9b6bfbc" width="40%">
    <img src="https://github.com/user-attachments/assets/785a2309-895b-433c-9695-74665d3839a3" width="40%">
    <img src="https://github.com/user-attachments/assets/d4a94376-478b-481d-a00b-0c2c4cbe1693" width="40%">
-   <p> [인 게임 플레이 사진 GIF] </p>
+   <p> 인 게임 플레이 사진 GIF </p>
 </div>
+
++ __2분 플레이 유튜브 영상__: https://youtu.be/5F0SmxNHHGc
 <br></br>
 
 ## 팀원 구성
 
-## 게임 빌드
+분류 | 이름 | 기능 | Github 주소
+---|------|------|-----
+팀장|이성희|기획, VR컨트롤러, 무기, 몬스터, 게임규칙 |https://github.com/leesh8258
+팀원|곽무현|메인메뉴 UI, 스테이지 UI, 사운드 |https://github.com/kwakmh
+팀원|황진서|스테이지 구성, Asset 구성 |https://github.com/dev-jin8612
